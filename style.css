@@ -96,7 +96,7 @@ h1#secondh1 {
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    position: absolute;
+    position: static;
     bottom: 1vw;
     padding: 0 2vw;
 
